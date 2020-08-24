@@ -1,15 +1,13 @@
 body{
     font-family: 'Heebo', sans-serif;
-    background-image: url(../Resources/Images/survey-unsplash.jpg);
+    background-image: url(https://res.cloudinary.com/fairy/image/upload/v1597988641/Projects/survey-unsplash_qclyfd.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-   
 }
 header{
     text-align:center;
     font-size: 22px;
-
 }
 #survey-form{
     font-size: 20px;
